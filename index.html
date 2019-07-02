@@ -1687,7 +1687,7 @@ div.tocify {
 <p>Nuestro trabajo cuenta con 4 modelos de predicción. Cada uno tiene sus prioridades en elección de materias y confiabilidad propia. Esto significa que hay modelos que priorizan el rendimiento en una materia sobre otra al generar la predicción y cada modelo cuenta con un cierto nivel de confiabilidad que informa cual es la probabilidad de que la predicción sea correcta. También se puede apreciar su confiabilidad analizando sus Matrices de Confusión que proporcionan informacion acerca de la relación entre las predicciones realizadas por el modelo y los datos reales.</p>
 <p>Los modelos son:</p>
 <ul>
-<li>Neural Network (NNET): Este modelo toma mucha información del resultado de Análisis y los exámenes de Álgebra, mientras que casi no utiliza las notas de Introducción a la Programación. Este modelo cuenta con una confiabilidad del 93%.</li>
+<li>Neural Network (NNET): Este modelo toma mucha información del resultado de Análisis y los exámenes de Álgebra, mientras que casi no utiliza las notas de Introducción a la Programación. Este modelo cuenta con una confiabilidad del 93% y tiene un p-valor de 0,003.</li>
 </ul>
 <p><br></p>
 <table>
@@ -1715,7 +1715,7 @@ div.tocify {
 <hr />
 <p><br></p>
 <ul>
-<li>Generalized Boosted Regression Modeling (GBM): Este modelo le da mucha importancia al resultado en el exámen de Introducción a la Programación y algo de importancia al rendimiento en Álgebra mientras que las notas de Análisis casi no las toma en cuenta. El nivel de confiabilidad que proporciona este modelo es de 90%.</li>
+<li>Generalized Boosted Regression Modeling (GBM): Este modelo le da mucha importancia al resultado en el exámen de Introducción a la Programación y algo de importancia al rendimiento en Álgebra mientras que las notas de Análisis casi no las toma en cuenta. El nivel de confiabilidad que proporciona este modelo es de 90% y tiene un p-valor de 0,015.</li>
 </ul>
 <p><br></p>
 <table>
@@ -1743,7 +1743,7 @@ div.tocify {
 <hr />
 <p><br></p>
 <ul>
-<li>Generalized Linear Modeling (GLM): Este modelo, por el contrario del anterior, le da mucha importancia al resultado del exámen de Álgebra e Introducción a la Programación mientras que casi no toma en cuenta el rendimiento en el exámen de Análisis. Este modelo cuenta con una confiabilidad del 90%.</li>
+<li>Generalized Linear Modeling (GLM): Este modelo, por el contrario del anterior, le da mucha importancia al resultado del exámen de Álgebra e Introducción a la Programación mientras que casi no toma en cuenta el rendimiento en el exámen de Análisis. Este modelo cuenta con una confiabilidad del 90% y tiene un p-valor de 0,015.</li>
 </ul>
 <p><br></p>
 <table>
@@ -1771,7 +1771,7 @@ div.tocify {
 <hr />
 <p><br></p>
 <ul>
-<li>Random Forest (RF): Este modelo se asemeja mucho al GBM ya que toma mucha información de el exámen de Introducción a la Programación con la diferencia de que también se basa en las notas de Análisis y un poco en las de Álgebra. Este modelo cuenta con una confiabilidad del 83%.</li>
+<li>Random Forest (RF): Este modelo se asemeja mucho al GBM ya que toma mucha información de el exámen de Introducción a la Programación con la diferencia de que también se basa en las notas de Análisis y un poco en las de Álgebra. Este modelo cuenta con una confiabilidad del 83% y tiene un p-valor de 0,05.</li>
 </ul>
 <p><br></p>
 <table>
