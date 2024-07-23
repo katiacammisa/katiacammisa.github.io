@@ -73,7 +73,10 @@ Ir a Settings, Plugins y descargar el *Kotlin* plugin
 # Crear nuestra app
 
 1. Abrir Android Studio
+   
 2. Seleccionar *New Project*
+   
 3. Seleccionar *Empty Activity*
+   
 4. Elegir un nombre para el paquete, un lugar donde guardarlo y settear el minSDK en API 24
 
