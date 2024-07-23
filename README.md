@@ -9,7 +9,7 @@
 * 02/10/2024
 * 20/11/2024
 
-## Datos de 🌈color🌈
+## Datos de 🌈
 
 * [Why use Compose?](https://developer.android.com/develop/ui/compose/why-adopt)
 * [Android vs IOS](https://backlinko.com/iphone-vs-android-statistics)
