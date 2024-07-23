@@ -17,21 +17,29 @@ Desarrollo *INDIVIDUAL* de una aplicación mobile durante la materia
   
 * Más puntos por buenas prácticas, cohesión, síntesis, limpieza y optimización del código
 
+Recuperatorio -> Más funcionalidades agregadas a la aplicación
+
 ---
 # ¿Cómo usar el grupo de Whatsapp?
 
 ### Katia:
 
 ✔︎ Aviso de cancelación de clase
+
 ✔︎ Recordatorio de entrega parcial
+
 ✘ Mensajes particulares referidos al TP de un alumno
 
 ### Alumnos:
 
 ✔︎ Consultas generales de la materia
+
 ✔︎ Consultas de las futuras entregas
+
 ✔︎ Consultas de lo visto en clase
+
 ✘ Conversaciones *no* vinculadas a la materia
+
 ✘ Mensajes con insultos o comentarios desubicados
 
 ---
