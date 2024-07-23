@@ -58,7 +58,9 @@ class: center, middle, inverse
 # ¿Qué tecnologías vamos a usar?
 
 * Android Studio como IDE
+  
 * Kotlin como lenguaje
+  
 * Compose como UI Toolkit
 
 ---
