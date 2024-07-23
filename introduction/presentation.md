@@ -9,7 +9,7 @@ class: center, middle, inverse
 * Email
 * Whastapp
 
-.center[![Whatsapp group]({{site.baseurl}}/presentation/introduction/whatsapp.jpeg)]
+.center[![Whatsapp group](whatsapp.jpeg)]
 
 ---
 # ¿Lavarse los dientes es un algoritmo? 
