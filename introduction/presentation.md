@@ -3,13 +3,32 @@ class: center, middle, inverse
 # Desarrollo Mobile - Android
 
 ---
+# Dinámica de la materia
 
-# ¿Cómo nos comunicamos? 
+Desarrollo *INDIVIDUAL* de una aplicación mobile durante el curso de la materia
 
-* Email: katia.cammisa@ing.austral.edu.ar
-* Whastapp
+* 2 entregas parciales
+* Promocionable
+* Entrega tarde? Recuperatorio
+* Mínimo funcionamiento -> nota 7
+* Más puntos por buenas prácticas, cohesión, síntesis, limpieza y optimización del código
 
-.center[![whatsapp group](https://github.com/katiacammisa/katiacammisa.github.io/blob/main/introduction/whatsapp.jpeg)]
+---
+# ¿Cómo usar el grupo de Whatsapp?
+
+### Katia:
+
+✔︎ Aviso de cancelación de clase
+✔︎ Recordatorio de entrega parcial
+✘ Mensajes particulares referidos al TP de un alumno
+
+### Alumnos:
+
+✔︎ Consultas generales de la materia
+✔︎ Consultas de las futuras entregas
+✔︎ Consultas de lo visto en clase
+✘ Conversaciones *no* vinculadas a la materia
+✘ Mensajes con insultos o comentarios desubicados
 
 ---
 # ¿Por qué vemos Desarrollo Mobile? 
