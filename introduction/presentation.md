@@ -9,7 +9,7 @@ class: center, middle, inverse
 * Email: katia.cammisa@ing.austral.edu.ar
 * Whastapp
 
-.center[![Whatsapp group](whatsapp.jpeg)]
+.center[<img src="whatsapp.jpeg">]
 
 ---
 # ¿Por qué vemos Desarrollo Mobile? 
