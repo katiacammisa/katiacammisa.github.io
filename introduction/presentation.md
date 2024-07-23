@@ -68,8 +68,6 @@ class: center, middle, inverse
 
 [Link de descarga](https://developer.android.com/studio)
 
-Ir a Settings, Plugins y descargar el *Kotlin* plugin
-
 # Crear nuestra app
 
 1. Abrir Android Studio
@@ -79,4 +77,6 @@ Ir a Settings, Plugins y descargar el *Kotlin* plugin
 3. Seleccionar *Empty Activity*
    
 4. Elegir un nombre para el paquete, un lugar donde guardarlo y settear el minSDK en API 24
+   
+5. Ir a Settings, Plugins y descargar el *Kotlin* plugin
 
