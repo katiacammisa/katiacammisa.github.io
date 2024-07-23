@@ -5,12 +5,16 @@ class: center, middle, inverse
 ---
 # Dinámica de la materia
 
-Desarrollo *INDIVIDUAL* de una aplicación mobile durante el curso de la materia
+Desarrollo *INDIVIDUAL* de una aplicación mobile durante la materia
 
 * 2 entregas parciales
+  
 * Promocionable
+  
 * Entrega tarde? Recuperatorio
+  
 * Mínimo funcionamiento -> nota 7
+  
 * Más puntos por buenas prácticas, cohesión, síntesis, limpieza y optimización del código
 
 ---
