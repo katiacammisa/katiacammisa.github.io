@@ -6,25 +6,16 @@ class: center, middle, inverse
 
 # ¿Cómo nos comunicamos? 
 
-* Email
+* Email: katia.cammisa@ing.austral.edu.ar
 * Whastapp
 
 .center[![Whatsapp group](whatsapp.jpeg)]
 
 ---
-# ¿Lavarse los dientes es un algoritmo? 
+# ¿Por qué vemos Desarrollo Mobile? 
 
 ---
-# Lavarse los dientes es también un algoritmo
-
- 1. Agarrar la pasta dental
- 2. Revisar si le queda
- 3. ¿Si no tiene? Busco una nueva
- 4. Busco el cepillo y lo coloco en los dientes
- 5. Muevo de lado a lado
- 6.  ¿Pasaron 2 minutos?  Volver a 5.
- 7.  Enjuagarse
- 8. Terminé
+# ¿Por qué vemos Android? 
 
 ---
 
