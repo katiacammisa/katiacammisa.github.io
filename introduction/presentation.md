@@ -1,13 +1,15 @@
 class: center, middle, inverse
 
-# Introducción a la Programación I
-Algoritmos
+# Desarrollo Mobile - Android
 
 ---
 
-# ¿Qué son los algoritmos? 
+# ¿Cómo nos comunicamos? 
 
-Un algoritmo es una secuencia de pasos para resolver un problema o realizar una tarea específica. Estos pasos deben ser definidos y ordenados de manera clara para que se puedan seguir correctamente.
+* Email
+* Whastapp
+
+.center[![Whatsapp group]({{site.baseurl}}/presentation/introduction/whatsapp.png)]
 
 ---
 # ¿Lavarse los dientes es un algoritmo? 
