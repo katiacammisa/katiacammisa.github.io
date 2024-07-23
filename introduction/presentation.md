@@ -47,9 +47,11 @@ Las 2 horas de clase se distribuyen en 0,5 hrs de teórica y 1,5 hrs de práctic
 ✘ Mensajes con insultos o comentarios desubicados
 
 ---
+class: center, middle, inverse
 # ¿Por qué vemos Desarrollo Mobile? 
 
 ---
+class: center, middle, inverse
 # ¿Por qué vemos Android? 
 
 ---
