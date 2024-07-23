@@ -20,8 +20,6 @@ Desarrollo *INDIVIDUAL* de una aplicación mobile durante la materia
 
 Recuperatorio -> Más funcionalidades agregadas a la aplicación
 
----
-# Dinámica de la clase
 
 Las 2 horas de clase se distribuyen en 0,5 hrs de teórica y 1,5 hrs de práctica
 
