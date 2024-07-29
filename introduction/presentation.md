@@ -84,11 +84,18 @@ class: center, middle, inverse
 # Temas que vamos a ver
 
 * UI (Positions, Aligning, Animations)
+  
 * Navigation
+  
 * Data states and saving
+  
 * API retrieval and parsing
+  
 * Themes (dark, light, custom)
+  
 * Biometric Login
+  
 * Language accessibility
+  
 * Bottom Nav Bar
 
