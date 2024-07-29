@@ -64,23 +64,6 @@ class: center, middle, inverse
 * Compose como UI Toolkit
 
 ---
-# Instalar Android Studio
-
-[Link de descarga](https://developer.android.com/studio)
-
-# Crear nuestra app
-
-1. Abrir Android Studio
-   
-2. Seleccionar *New Project*
-   
-3. Seleccionar *Empty Activity*
-   
-4. Elegir un nombre para el paquete, un lugar donde guardarlo y settear el minSDK en API 24
-   
-5. Ir a Settings, Plugins y descargar el *Kotlin* plugin
-
----
 # Temas que vamos a ver
 
 * UI (Positions, Aligning, Animations)
@@ -98,4 +81,21 @@ class: center, middle, inverse
 * Language accessibility
   
 * Bottom Nav Bar
+
+---
+# Instalar Android Studio
+
+[Link de descarga](https://developer.android.com/studio)
+
+# Crear nuestra app
+
+1. Abrir Android Studio
+   
+2. Seleccionar *New Project*
+   
+3. Seleccionar *Empty Activity*
+   
+4. Elegir un nombre para el paquete, un lugar donde guardarlo y settear el minSDK en API 24
+   
+5. Ir a Settings, Plugins y descargar el *Kotlin* plugin
 
