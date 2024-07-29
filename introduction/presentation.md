@@ -11,7 +11,7 @@ Desarrollo *INDIVIDUAL* de una aplicación mobile durante la materia
   
 * Promocionable
   
-* Entrega tarde? Recuperatorio
+* Entrega tarde/incompleta? Recuperatorio
   
 * Mínimo funcionamiento -> nota 7
   
