@@ -80,3 +80,15 @@ class: center, middle, inverse
    
 5. Ir a Settings, Plugins y descargar el *Kotlin* plugin
 
+---
+# Temas que vamos a ver
+
+* UI (Positions, Aligning, Animations)
+* Navigation
+* Data states and saving
+* API retrieval and parsing
+* Themes (dark, light, custom)
+* Biometric Login
+* Language accessibility
+* Bottom Nav Bar
+
