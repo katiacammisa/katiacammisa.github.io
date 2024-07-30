@@ -13,7 +13,7 @@ Desarrollo *INDIVIDUAL* de una aplicación mobile durante la materia
   
 * Entrega tarde/incompleta -> Recuperatorio
   
-* Mínimo funcionamiento -> nota 7
+* Mínimo funcionamiento -> Nota 7
   
 * Más puntos por buenas prácticas, cohesión, síntesis, limpieza y optimización del código
 
