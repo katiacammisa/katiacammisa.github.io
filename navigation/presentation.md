@@ -20,3 +20,7 @@ class: center, middle, inverse
 4. Crear el NavHost
 
     Definir qué Composable se va a mostrar cuando se navegue a cada pantalla
+
+5. Crear TopBar y BottomBar
+
+   Crear barras de navegación estáticas en la aplicación
