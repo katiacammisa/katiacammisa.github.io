@@ -32,23 +32,23 @@ class: center, middle, inverse
 
 3. Referenciar aplicación creada en AndroidManifest.xml
 
-    <application
-      android:name=".UnscrambleApplication" ... />
+    `<application
+      android:name=".UnscrambleApplication" ... />`
 
 4. Definity la MainActivity como un entry point
 
    Annotar MainActivity.kt con @AndroidEntryPoint
 
-5. Crear un View Model
+---
+# Pasos para incluir Hilt a las pantallas
+
+1. Crear un View Model
 
    Agregar anotacion de Hilt, extender ViewModel y utilizar el @Inject:
 
-   @HiltViewModel
-   class FriendsViewModel @Inject constructor() : ViewModel() {
+   `@HiltViewModel
+   class FriendsViewModel @Inject constructor() : ViewModel() {`
 
-6. Utilizar hiltViewModel en la UI:
+2. Utilizar hiltViewModel en la UI:
 
-   val viewModel = hiltViewModel<FriendsViewModel>()
-
-
-   
+   `val viewModel = hiltViewModel<FriendsViewModel>()`
