@@ -7,18 +7,18 @@ class: center, middle, inverse
 
 1. Agregar plugins al build.gradle.kts (Project :(projectName))
 
-    id("com.google.dagger.hilt.android") version "2.44" apply false
+    `id("com.google.dagger.hilt.android") version "2.44" apply false`
 
 2. Agregar plugins al build.gradle.kts (Module :app)
 
-    id("dagger.hilt.android.plugin")
-    id("kotlin-kapt")
+    `id("dagger.hilt.android.plugin")
+    id("kotlin-kapt")`
 
 3. Agregar dependencias al build.gradle.kts (Module :app)
 
-    implementation("androidx.hilt:hilt-navigation-compose:1.2.0")
+    `implementation("androidx.hilt:hilt-navigation-compose:1.2.0")
     implementation("com.google.dagger:hilt-android:2.49")
-    kapt("com.google.dagger:hilt-android-compiler:2.44")
+    kapt("com.google.dagger:hilt-android-compiler:2.44")`
 
 ---
 # Pasos para incluir Hilt al proyecto
