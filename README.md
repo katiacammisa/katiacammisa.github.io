@@ -4,6 +4,7 @@
 1. [Introduction](introduction)
 2. [Navigation](navigation)
 3. [States](states)
+4. [Docu API Retreival](https://www.geeksforgeeks.org/how-to-get-data-from-api-using-retrofit-library-in-android/)
 
 ## Link a repo con src code: [Unscramble](https://github.com/katiacammisa/Unscramble)
 **************************************************
