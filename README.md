@@ -1,10 +1,12 @@
 # Desarrollo Mobile 2024
 
 ## Presentaciones
-1. [Introduction](introduction)
-2. [Navigation](navigation)
-3. [States](states)
-4. [Docu API Retreival](https://www.geeksforgeeks.org/how-to-get-data-from-api-using-retrofit-library-in-android/)
+1. [Introduction](introduction) [Docu Install Android Studio](https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio?hl=es-419#0)
+2. [Docu Resources](https://developer.android.com/guide/topics/resources/providing-resources?hl=es-419)
+3. [Docu Animations](https://developer.android.com/develop/ui/compose/animation/introduction?hl=es-419)
+4. [Navigation](navigation) [Docu Bottom Nav Bar](https://developer.android.com/develop/ui/compose/navigation?hl=es-419#bottom-nav) [Docu Navigation](https://developer.android.com/develop/ui/compose/navigation?hl=es-419h)
+5. [States](states) [Docu States](https://developer.android.com/develop/ui/compose/state?hl=es-419)
+6. [Docu API Retreival](https://www.geeksforgeeks.org/how-to-get-data-from-api-using-retrofit-library-in-android/)
 
 ## Link a repo con src code: [Unscramble](https://github.com/katiacammisa/Unscramble)
 **************************************************
