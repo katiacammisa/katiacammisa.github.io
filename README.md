@@ -7,6 +7,7 @@
 4. [Navigation](navigation) - [Docu Bottom Nav Bar](https://developer.android.com/develop/ui/compose/navigation?hl=es-419#bottom-nav) - [Docu Navigation](https://developer.android.com/develop/ui/compose/navigation?hl=es-419h)
 5. [States](states) - [Docu States](https://developer.android.com/develop/ui/compose/state?hl=es-419)
 6. [Docu API Retreival](https://www.geeksforgeeks.org/how-to-get-data-from-api-using-retrofit-library-in-android/) - [Link para crear una API](https://retool.com/api-generator)
+7. [Docu primitive data storage](https://medium.com/@mundodigital.pro/implementando-datastore-preferences-en-android-con-kotlin-f1cbb28974af) - [Docu Room local database](https://medium.com/@harimoradiya123/getting-started-with-room-database-in-android-using-kotlin-92f84b6a5e6c)
 
 ## Link a repo con src code: [Unscramble](https://github.com/katiacammisa/Unscramble)
 **************************************************
