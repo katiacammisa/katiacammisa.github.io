@@ -15,12 +15,13 @@
 ## Fechas de Entrega
 * 30/09/2024
   1. Preview
-  2. Composable elements(Text, Column, Row, Image, Icon)
-  3. Bottom Navigation Bar
-  4. Local states (in composable)
-  5. General states (in View Models)
-  6. API Call
-  7. App Icon
+  2. Composable elements - Text, Column, Row, Image, Icon, Buttons
+  3. Extracted resources - strings, dimensions, colors, etc
+  4. Bottom Navigation Bar
+  5. Local states (in composable)
+  6. General states (in View Models)
+  7. API Call
+  8. App Icon
   
 * 13/11/2024
 
