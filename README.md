@@ -8,6 +8,13 @@
 5. [States](states) - [Docu States](https://developer.android.com/develop/ui/compose/state?hl=es-419)
 6. [Docu API Retreival](https://www.geeksforgeeks.org/how-to-get-data-from-api-using-retrofit-library-in-android/) - [Link para crear una API](https://retool.com/api-generator)
 7. [Docu primitive data storage](https://medium.com/@mundodigital.pro/implementando-datastore-preferences-en-android-con-kotlin-f1cbb28974af) - [Docu Room local database](https://medium.com/@harimoradiya123/getting-started-with-room-database-in-android-using-kotlin-92f84b6a5e6c)
+8. [Link create App Icon](https://icon.kitchen/)
+9. [Docu Dismissible Card](https://www.geeksforgeeks.org/android-jetpack-compose-swipe-to-dismiss-with-material-3/)
+10. [Docu Tabs](https://www.freecodecamp.org/news/tabs-in-jetpack-compose/)
+11. [Docu FABs](https://developer.android.com/quick-guides/content/create-floating-action-button)
+12. [Docu Switch](https://developer.android.com/develop/ui/compose/components/switch)
+13. [Docu Chip](https://developer.android.com/develop/ui/compose/components/chip)
+14. [Docu Checkbox](https://developer.android.com/develop/ui/compose/components/checkbox)
 
 ## Link a repo con src code: [Unscramble](https://github.com/katiacammisa/Unscramble)
 **************************************************
