@@ -31,7 +31,7 @@
   7. API Call
   8. App Icon
   
-* 13/11/2024
+* 8/11/2024
 
 ## Datos de 🌈
 
