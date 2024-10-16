@@ -34,6 +34,10 @@
   9. App Icon
   
 * 8/11/2024
+  1. Todos los cambios necesarios de la entrega anterior
+  2. Strings en otros idiomas
+  3. Biometric Auth
+  4. Dark Theme
 
 ## Datos de 🌈
 
