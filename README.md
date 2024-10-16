@@ -16,6 +16,7 @@
 13. [Docu Chip](https://developer.android.com/develop/ui/compose/components/chip)
 14. [Docu Checkbox](https://developer.android.com/develop/ui/compose/components/checkbox)
 15. [Docu Navigation Drawer (side modal)](https://developer.android.com/develop/ui/compose/components/drawer)
+16. [Docu Biometric Auth](https://medium.com/@muaz.kadan/biometric-authentication-in-jetpack-compose-5e4d7e35d1e7)
 
 ## Link a repo con src code: [Unscramble](https://github.com/katiacammisa/Unscramble)
 **************************************************
@@ -26,10 +27,11 @@
   2. Composable elements - Text, Column, Row, Image, Icon, Buttons
   3. Extracted resources - strings, dimensions, colors, etc
   4. Bottom Navigation Bar
-  5. Local states (in composable)
-  6. General states (in View Models)
-  7. API Call
-  8. App Icon
+  5. Room/Data Store
+  6. Local states (in composable)
+  7. General states (in View Models)
+  8. API Call
+  9. App Icon
   
 * 8/11/2024
 
