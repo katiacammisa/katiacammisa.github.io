@@ -4,6 +4,7 @@
 1. [Introduction](introduction) - [Docu Install Android Studio](https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio?hl=es-419#0)
    
 <!---
+
 2. [Docu Resources](https://developer.android.com/guide/topics/resources/providing-resources?hl=es-419)
 3. [Docu Animations](https://developer.android.com/develop/ui/compose/animation/introduction?hl=es-419)
 4. [Navigation](navigation) - [Docu Bottom Nav Bar](https://developer.android.com/develop/ui/compose/navigation?hl=es-419#bottom-nav) - [Docu Navigation](https://developer.android.com/develop/ui/compose/navigation?hl=es-419h)
@@ -19,6 +20,7 @@
 14. [Docu Checkbox](https://developer.android.com/develop/ui/compose/components/checkbox)
 15. [Docu Navigation Drawer (side modal)](https://developer.android.com/develop/ui/compose/components/drawer)
 16. [Docu Biometric Auth](https://medium.com/@muaz.kadan/biometric-authentication-in-jetpack-compose-5e4d7e35d1e7)
+
 -->
 
 ## Link a repo con src code: 
