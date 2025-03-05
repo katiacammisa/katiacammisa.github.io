@@ -24,14 +24,6 @@ Recuperatorio -> Más funcionalidades agregadas a la aplicación
 Las 2 horas de clase se distribuyen en 0,5 hrs de teórica y 1,5 hrs de práctica
 
 ---
-class: center, middle, inverse
-# ¿Por qué vemos Desarrollo Mobile? 
-
----
-class: center, middle, inverse
-# ¿Por qué vemos Android? 
-
----
 # ¿Qué tecnologías vamos a usar?
 
 * Android Studio como IDE
