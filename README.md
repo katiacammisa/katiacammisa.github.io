@@ -38,7 +38,7 @@
   9. API Call
   10. App Icon
   
-* 21/06/2025
+* 14/06/2025
   1. Todos los cambios necesarios de la entrega anterior
   2. Database
   3. Biometric Auth
