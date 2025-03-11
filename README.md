@@ -56,4 +56,5 @@
 
 ## Contacto
 * Katia Cammisa: [katia.cammisa@ing.austral.edu.ar](katia.cammisa@ing.austral.edu.ar)
+* Jorge Lopez: [jorge.lopezbauer@ing.austral.edu.ar](jorge.lopezbauer@ing.austral.edu.ar )
 * Grupo de whatsapp: [Unirse al grupo](https://chat.whatsapp.com/LRkpYekV5SD28p5fpQDupU)
