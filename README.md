@@ -24,7 +24,7 @@
 
 -->
 
-## Link a repo con src code: 
+## Link a repo con src code: [Learning Android](https://github.com/katiacammisa/learning_android)
 **************************************************
 
 ## Fechas de Entrega
