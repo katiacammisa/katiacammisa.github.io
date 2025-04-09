@@ -28,12 +28,12 @@ class: center, middle, inverse
     Crear archivo en el root del proyecto (a la misma altura que la main activity):
    
     @HiltAndroidApp
-    class UnscrambleApplication: Application()
+    class LearningAndroidApplication: Application()
 
 3. Referenciar aplicación creada en AndroidManifest.xml
 
     `<application
-      android:name=".UnscrambleApplication" ... />`
+      android:name=".LearningAndroidApplication" ... />`
 
 4. Definity la MainActivity como un entry point
 
