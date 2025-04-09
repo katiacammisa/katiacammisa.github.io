@@ -37,7 +37,7 @@ class: center, middle, inverse
 
 4. Definity la MainActivity como un entry point
 
-   Annotar MainActivity.kt con @AndroidEntryPoint
+   Annotar MainActivity.kt con @AndroidEntryPoint y hacer que extienda FragmentActivity en vez de ComponentActivity
 
 ---
 # Pasos para incluir Hilt a las pantallas
