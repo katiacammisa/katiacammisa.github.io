@@ -30,7 +30,7 @@
 
 ## Fechas de Entrega
 * 26/04/2025
-  1. Preview
+  1. Previews
   2. Composable elements - Text, Column, Row, Image, Icon, Buttons
   3. Extracted resources - Strings, Dimensions, Colors
   4. Bottom Navigation Bar
