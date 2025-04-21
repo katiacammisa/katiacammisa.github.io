@@ -14,10 +14,10 @@
 11. [Docu Navigation Drawer (side modal)](https://developer.android.com/develop/ui/compose/components/drawer)
 12. [Docu Resources](https://developer.android.com/guide/topics/resources/providing-resources?hl=es-419)
 13. [Docu Animations](https://developer.android.com/develop/ui/compose/animation/introduction?hl=es-419)
+14. [Docu API Retreival](https://www.geeksforgeeks.org/how-to-get-data-from-api-using-retrofit-library-in-android/) - [Link para crear una API](https://retool.com/api-generator)
    
 <!---
 
-6. [Docu API Retreival](https://www.geeksforgeeks.org/how-to-get-data-from-api-using-retrofit-library-in-android/) - [Link para crear una API](https://retool.com/api-generator)
 7. [Docu primitive data storage](https://medium.com/@mundodigital.pro/implementando-datastore-preferences-en-android-con-kotlin-f1cbb28974af) - [Docu Room local database](https://medium.com/@harimoradiya123/getting-started-with-room-database-in-android-using-kotlin-92f84b6a5e6c)
 9. [Docu Dismissible Card](https://www.geeksforgeeks.org/android-jetpack-compose-swipe-to-dismiss-with-material-3/)
 15. [Docu Navigation Drawer (side modal)](https://developer.android.com/develop/ui/compose/components/drawer)
