@@ -15,7 +15,9 @@ Historia
 
 * 2019 -> Lenguaje **preferido** para Android
 
-* 2020 -> KMP
+* 2020 -> KMP (Kotlin MultiPlatform)
+  
+* 2025 -> CMP (Compose MultiPlatform)
 
 ---
 class: center, middle, inverse
