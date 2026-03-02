@@ -30,7 +30,7 @@
 **************************************************
 
 ## Fechas de Entrega
-* 26/04/2025
+* 19/04/2026
   1. Previews
   2. Composable elements - Text, Column, Row, Image, Icon, Buttons
   3. Extracted resources - Strings, Dimensions, Colors
@@ -41,7 +41,7 @@
   10. App Icon
   11. Dark Theme
   
-* 14/06/2025
+* 21/06/2026
   1. Todos los cambios necesarios de la entrega anterior
   2. Database
   3. Biometric Auth
