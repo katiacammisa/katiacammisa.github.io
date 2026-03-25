@@ -7,7 +7,7 @@ class: center, middle, inverse
 
 1. Agregar plugins al build.gradle.kts (Project :(projectName))
 
-    `id("com.google.dagger.hilt.android") version "2.44" apply false`
+    `id("com.google.dagger.hilt.android") version "..." apply false`
 
 2. Agregar plugins al build.gradle.kts (Module :app)
 
@@ -16,9 +16,9 @@ class: center, middle, inverse
 
 3. Agregar dependencias al build.gradle.kts (Module :app)
 
-    `implementation("androidx.hilt:hilt-navigation-compose:1.2.0")
-    implementation("com.google.dagger:hilt-android:2.49")
-    kapt("com.google.dagger:hilt-android-compiler:2.44")`
+    `implementation("androidx.hilt:hilt-navigation-compose:...")
+    implementation("com.google.dagger:hilt-android:...")
+    kapt("com.google.dagger:hilt-android-compiler:...")`
 
 ---
 # Pasos para incluir Hilt al proyecto
@@ -28,12 +28,12 @@ class: center, middle, inverse
     Crear archivo en el root del proyecto (a la misma altura que la main activity):
    
     @HiltAndroidApp
-    class LearningAndroidApplication: Application()
+    class MyCarsApplication: Application()
 
 3. Referenciar aplicación creada en AndroidManifest.xml
 
     `<application
-      android:name=".LearningAndroidApplication" ... />`
+      android:name=".MyCarsApplication" ... />`
 
 4. Definity la MainActivity como un entry point
 
